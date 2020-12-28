@@ -2,6 +2,7 @@
 We gonna try to fill the NaN values of Hotel-Bookings.csv
 
 csv File loaded by pandas
+
 ![Image](https://github.com/emintatli/Hotel-Bookings-EDA-interpolation/blob/main/res/Screenshot_1.png?raw=True)
 
 Then we gonna check all columns data types and pop all the non integer columns
